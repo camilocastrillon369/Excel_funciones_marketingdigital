@@ -9,8 +9,8 @@ Preparar una base de datos confiable y responder preguntas de negocio sobre inve
 ## Herramientas y funciones
 
 - **Excel** (tablas, formato condicional, gráficos y segmentación en el dashboard)
-- **Limpieza:** `ESPACIOS`, `NOMPROPIO`, `CONTAR.SI.CONJUNTO`
-- **Análisis:** `SUMAR.SI`, `SUMAR.SI.CONJUNTO`, `BUSCARX`, `BUSCARV`, `INDICE` + `COINCIDIR`, `FILTRAR`, `MAX`, `LET`
+- **Limpieza:** ESPACIOS, NOMPROPIO, CONTAR.SI.CONJUNTO
+- **Análisis:** SUMAR.SI, SUMAR.SI.CONJUNTO, BUSCARX, BUSCARV, INDICE + COINCIDIR, FILTRAR, MAX, LET
 
 ## Estructura del libro
 
